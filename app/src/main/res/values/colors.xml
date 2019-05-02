@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3E4D</color>
+    <color name="colorPrimaryDark">#5C0C13</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="orange">#FF9800</color>
+    <color name="black">#000000</color>
+    <color name="grey">#E6E6E6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="default_text_color">#808080</color>
+    <color name="chip_stroke_color">#c4c4c4</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LCO  Smart Replies</string>
+    <string name="hint_input">Enter a message…</string>
+    <string name="generate_smart_replies">Generate Smart Replies</string>
+    <string name="send_message_description">Send a message</string>
+    <string name="swap_users">change users</string>
+    <string name="clear_chat_history">Clear chat history</string>
+
+</resources>
